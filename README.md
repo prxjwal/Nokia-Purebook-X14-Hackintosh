@@ -60,7 +60,7 @@ GPU - Intel Integrated UHD 620 graphics
 
 
 
-## Device specs
+## Whats working what's not
 
 All most everything works fine other than delay in connecting wifi after waking up from sleep and screen is set to its minimum brightness for 30 sec after turning on i am not planning to fix these any time soon 
 
